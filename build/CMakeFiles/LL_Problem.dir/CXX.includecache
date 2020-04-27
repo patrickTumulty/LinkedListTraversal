@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ptumulty/Developer/VS_Code/C++/LinkedListTraversal/src/ll.cpp
+iostream
+-
+ll.hpp
+/Users/ptumulty/Developer/VS_Code/C++/LinkedListTraversal/src/ll.hpp
+
+/Users/ptumulty/Developer/VS_Code/C++/LinkedListTraversal/src/ll.hpp
+iostream
+-
+
+/Users/ptumulty/Developer/VS_Code/C++/LinkedListTraversal/src/main.cpp
+iostream
+-
+ll.hpp
+/Users/ptumulty/Developer/VS_Code/C++/LinkedListTraversal/src/ll.hpp
+
